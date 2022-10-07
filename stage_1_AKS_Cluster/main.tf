@@ -12,7 +12,7 @@ terraform {
     resource_group_name  = "hackerkiste-resources"
     storage_account_name = "hackerkistetfstate"
     container_name       = "tfstate"
-    key                  = "***CHANGEME****.tfstate"
+    key                  = "mstoetzer.tfstate"
   }
 }
 
